@@ -1,0 +1,14 @@
+.main {
+    position: relative;
+}
+
+.main .box {
+    padding: 15px 0 0 15px;
+    /*position: absolute;*/
+    float: left;
+}
+
+.main .box img{
+    width: 200px;
+    height: auto;
+}
