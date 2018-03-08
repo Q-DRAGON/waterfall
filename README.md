@@ -1,4 +1,3 @@
-# waterfall
 ## 界面
 ![瀑布流界面](https://raw.githubusercontent.com/Q-DRAGON/waterfall/master/ui-screenshot/%E6%88%AA%E5%9B%BE.PNG)
 ## 介绍
